@@ -6,7 +6,7 @@
 // @description  一个用于Bilibili平台的篡改猴脚本。以一种直接的方式抵抗商业化平台对人类大脑的利用。【已删：首页自动跳转搜索页】包含隐藏广告、隐藏推荐视频、隐藏评论区等功能，削弱平台/媒体对你心理的操控，恢复你对自己注意力和思考的主导权。
 // @author       掌控雷与电的男人
 // @license      MIT
-// @icon         https://github.com/daqiu6510/BilibiliPurify/main/Icon.png
+// @icon         https://raw.githubusercontent.com/daqiu6510/BilibiliPurify/main/Icon.png
 // @homepage     https://github.com/daqiu6510/BilibiliPurify
 // @supportURL   https://github.com/daqiu6510/BilibiliPurify/issues 
 // @match        https://www.bilibili.com/
